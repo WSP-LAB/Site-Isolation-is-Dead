@@ -1,0 +1,6 @@
+[submodule "browseros-agent"]
+	path = browseros-agent
+	url = https://github.com/browseros-ai/old-browseros-agent.git
+[submodule "nanobrowser"]
+	path = nanobrowser
+	url = https://github.com/nanobrowser/nanobrowser.git
