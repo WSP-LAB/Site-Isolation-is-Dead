@@ -176,6 +176,7 @@ cite our paper:
   author = {Suyoung Lee and Seongho Keum and Changoo Lee and Dongwon Shin and Sanghyun Hong and Byoungyoung Lee and Sooel Son},
   title = {Site Isolation is Dead: How Site Isolation is Broken in Agentic Browsers and Extensions},
   booktitle = {Proceedings of the {IEEE} Symposium on Security and Privacy},
+  pages = {1804--1821},
   year = 2026
 }
 ```
