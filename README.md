@@ -6,7 +6,7 @@ Extensions"**.
 
 It includes (1) a **demo video** illustrating an end-to-end paper content
 exfiltration scenario via our Malicious Prompt Injection (MPI) attack, and (2)
-**Patches** that implement our proposed guardrail system to detect and mitigate
+**patches** that implement our proposed guardrail system to detect and mitigate
 Indirect Prompt Injection (IPI) attacks. These patches are provided for two
 open-source agentic systems evaluated in our study:
 [Nanobrowser](https://github.com/nanobrowser/nanobrowser) and [BrowserOS
