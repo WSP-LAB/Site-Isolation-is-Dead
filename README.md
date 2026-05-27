@@ -1,8 +1,8 @@
 # Site Isolation is Dead: How Site Isolation is Broken in Agentic Browsers and Extensions
 
 This repository provides the official artifacts for the IEEE S&P 2026 paper,
-**"Site Isolation is Dead: How Site Isolation is Broken in Agentic Browsers and
-Extensions"**.
+["Site Isolation is Dead: How Site Isolation is Broken in Agentic Browsers and
+Extensions"](https://leeswimming.com/papers/lee-sp26.pdf).
 
 It includes (1) a **demo video** illustrating an end-to-end paper content
 exfiltration scenario via our Malicious Prompt Injection (MPI) attack, and (2)
